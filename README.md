@@ -1,4 +1,4 @@
-# D01
+# D01 -- Day One.
 
 **The Next Generation of Public Companies is On-Chain**
 
@@ -13,7 +13,7 @@ Today's equity infrastructure is broken. Companies navigate a fragmented maze of
 - **$30-100k/year** wasted on cap table management and compliance
 - **7-10 years** before employees see liquidity
 - **7% fees** lost to IPO underwriters
-- **You don't own your shares**—brokers and custodians do
+- **You don't own your shares**; brokers and custodians do
 
 The system built for the 1970s can't serve the companies of tomorrow.
 
@@ -63,9 +63,9 @@ Direct listings, institutional-grade trading, global 24/7 markets
 
 ---
 
-*Code == Law == Code. *
+*Code == Law == Code.*
 
-*Ownership is Programmable. *
+*Ownership is Programmable.*
 
 *Liquidity is Continuous.*
 
@@ -73,4 +73,4 @@ Direct listings, institutional-grade trading, global 24/7 markets
 
 ---
 
-🌐 [d01.com](https://d01.com) · 𝕏 [@D01_DayOne](https://x.com/D011149372) · 💬 [Telegram](https://t.me/d01onchain)
+🌐 [d01.com](https://d01.com) · 𝕏 [@D01_DayOne](https://x.com/D01onchain)
