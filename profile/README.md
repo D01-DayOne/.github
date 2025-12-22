@@ -73,4 +73,4 @@ Direct listings, institutional-grade trading, global 24/7 markets
 
 ---
 
-🌐 [d01.com](https://d01.com) · 𝕏 [@D01_DayOne](https://x.com/D01onchain)
+🌐 [d01.io](https://d01.io) · 𝕏 [@D01_DayOne](https://x.com/D01onchain)
