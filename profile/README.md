@@ -1,4 +1,4 @@
-# D01 -- Day One.
+# D01 || Day One.
 
 **The Next Generation of Public Companies is On-Chain**
 
