@@ -1,6 +1,6 @@
-# D01 || Day One.
+# Day One.
 
-**The Next Generation of Public Companies is On-Chain**
+**The Equity Layer**
 
 Onchain incorporation and cap table management platform using compliant security token standards.
 
