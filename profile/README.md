@@ -10,7 +10,7 @@ Programmable cap tables, compliance embedded on the share, fundraising, and corp
 
 ## The Fragmented Equity Journey
 
-Incorporating, raising funds, issuing options, communicating updates — all live in disconnected platforms, a headache for founders, investors and employees alike.
+Incorporating, raising funds, issuing options, communicating updates, all live in disconnected platforms, a headache for founders, investors and employees alike.
 
 Cap tables diverge across multiple tools and spreadsheets. Every fundraise means weeks of reconciliation. Employees wait 7–10 years for liquidity events on shares they don't actually hold.
 
@@ -39,9 +39,11 @@ A legal firm, a 409A provider, a broker-dealer — they plug into a shared compl
 
 obolos uses the [CMTAT](https://cmta.ch/standards/cmta-token-cmtat) tokenisation standard to model Shares, Options, SAFEs and other instruments, with a proprietary Compliance Layer that codifies and enforces the rules of each jurisdiction.
 
-Selective disclosure ensures every participant sees exactly what they need to see — nothing more.
+Selective disclosure ensures every participant sees exactly what they need to see.
 
-[Base](https://base.org) (Ethereum L2) as our settlement and storage layer.
+FHE (in progress) for privacy and selective disclosure.
+
+Ethereum as our settlement and storage layer.
 
 Ownership lives on a public, permissionless ledger that ensures privacy and enforcement rights for the shareholder, compliance abstraction for the distribution parties and a programmable equity toolkit for the operating companies.
 
@@ -82,7 +84,7 @@ On-chain pre-IPO auditability. DTC interoperability. Real-time settlement.
 New cryptographic protocols enable on-chain confidentiality without sacrificing compliance. Transaction costs are close to negligible.
 
 **Market Demand**  
-Crypto-native founders increasingly want on-chain equity. BlackRock's $2B+ BUIDL fund validates institutional appetite for tokenized assets. The token-vs-equity debate is over.
+Crypto-native founders increasingly want on-chain equity. BlackRock's $2B+ BUIDL fund validates institutional appetite for tokenized assets. Institutions are exploring the blockchain world and the benefits of the technology.
 
 **Secondary Market Growth**  
 $226B in private secondary volume in 2025, growing ~40% YoY, heading to $400B by 2030. The demand for private securities infrastructure is accelerating independently of crypto.
