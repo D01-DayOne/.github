@@ -1,6 +1,6 @@
 # obolos
 
-**Compliance infrastructure for tokenized equity.**
+**Carta rebuilt onchain for the programmable economy.**
 
 Enforce securities rules directly on-chain, at the share level. One source of truth for founders, shareholders, and institutions.
 
